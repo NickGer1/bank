@@ -1,0 +1,7 @@
+[{
+  "_id": {
+    "$oid": "6623beb4183d23e80505f1c4"
+  },
+  "login": "admin",
+  "password": "$2a$10$AL4dvqLOz92sCQRG05aAeu6tKjPxamzNil3ABE2ixbBN4orAjoz3O"
+}]
