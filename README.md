@@ -1,6 +1,7 @@
 Проект доступен для просмотра на удаленном сервере по ссылке: https://calc.adnokulovnikita.online/
 
 API работает по ссылке: https://calc.adnokulovnikita.online/api/
+
 Пример GET запроса к API на получение всех доступных калькуляторов: https://calc.adnokulovnikita.online/api/credits/
 
 Доступ в личный кабинет администратора банка:
